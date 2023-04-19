@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "https://app.icecreamswap.finance/static/js/main.bd1547cd.chunk.js",
+    "main.js.map": "https://app.icecreamswap.finance/static/js/main.bd1547cd.chunk.js.map",
+    "runtime-main.js": "https://app.icecreamswap.finance/static/js/runtime-main.8aea14da.js",
+    "runtime-main.js.map": "https://app.icecreamswap.finance/static/js/runtime-main.8aea14da.js.map",
+    "static/js/2.0487451c.chunk.js": "https://app.icecreamswap.finance/static/js/2.0487451c.chunk.js",
+    "static/js/2.0487451c.chunk.js.map": "https://app.icecreamswap.finance/static/js/2.0487451c.chunk.js.map",
+    "static/js/3.3bb951aa.chunk.js": "https://app.icecreamswap.finance/static/js/3.3bb951aa.chunk.js",
+    "static/js/3.3bb951aa.chunk.js.map": "https://app.icecreamswap.finance/static/js/3.3bb951aa.chunk.js.map",
+    "static/js/4.7e29367e.chunk.js": "https://app.icecreamswap.finance/static/js/4.7e29367e.chunk.js",
+    "static/js/4.7e29367e.chunk.js.map": "https://app.icecreamswap.finance/static/js/4.7e29367e.chunk.js.map",
+    "static/css/5.7d1cd639.chunk.css": "https://app.icecreamswap.finance/static/css/5.7d1cd639.chunk.css",
+    "static/js/5.fe85d613.chunk.js": "https://app.icecreamswap.finance/static/js/5.fe85d613.chunk.js",
+    "static/js/5.fe85d613.chunk.js.map": "https://app.icecreamswap.finance/static/js/5.fe85d613.chunk.js.map",
+    "static/js/6.01389faa.chunk.js": "https://app.icecreamswap.finance/static/js/6.01389faa.chunk.js",
+    "static/js/6.01389faa.chunk.js.map": "https://app.icecreamswap.finance/static/js/6.01389faa.chunk.js.map",
+    "static/js/7.18613cb6.chunk.js": "https://app.icecreamswap.finance/static/js/7.18613cb6.chunk.js",
+    "static/js/7.18613cb6.chunk.js.map": "https://app.icecreamswap.finance/static/js/7.18613cb6.chunk.js.map",
+    "static/js/8.4eddef2b.chunk.js": "https://app.icecreamswap.finance/static/js/8.4eddef2b.chunk.js",
+    "static/js/8.4eddef2b.chunk.js.map": "https://app.icecreamswap.finance/static/js/8.4eddef2b.chunk.js.map",
+    "static/js/9.13b62cb1.chunk.js": "https://app.icecreamswap.finance/static/js/9.13b62cb1.chunk.js",
+    "static/js/9.13b62cb1.chunk.js.map": "https://app.icecreamswap.finance/static/js/9.13b62cb1.chunk.js.map",
+    "index.html": "https://app.icecreamswap.finance/index.html",
+    "static/css/5.7d1cd639.chunk.css.map": "https://app.icecreamswap.finance/static/css/5.7d1cd639.chunk.css.map",
+    "static/js/2.0487451c.chunk.js.LICENSE.txt": "https://app.icecreamswap.finance/static/js/2.0487451c.chunk.js.LICENSE.txt",
+    "static/js/3.3bb951aa.chunk.js.LICENSE.txt": "https://app.icecreamswap.finance/static/js/3.3bb951aa.chunk.js.LICENSE.txt",
+    "static/js/5.fe85d613.chunk.js.LICENSE.txt": "https://app.icecreamswap.finance/static/js/5.fe85d613.chunk.js.LICENSE.txt",
+    "static/js/7.18613cb6.chunk.js.LICENSE.txt": "https://app.icecreamswap.finance/static/js/7.18613cb6.chunk.js.LICENSE.txt",
+    "static/media/bunnyhead-main.f588d752.svg": "https://app.icecreamswap.finance/static/media/bunnyhead-main.f588d752.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aea14da.js",
+    "static/js/2.0487451c.chunk.js",
+    "static/js/main.bd1547cd.chunk.js"
+  ]
+}
